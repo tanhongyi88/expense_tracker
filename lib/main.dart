@@ -49,7 +49,7 @@ void main() {
               ),
             ),
       ),
-      themeMode: ThemeMode.dark, //default is ThemeMode.system
+      themeMode: ThemeMode.light, //default is ThemeMode.system
       home: const Expenses(),
     ),
   );
